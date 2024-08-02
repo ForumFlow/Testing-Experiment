@@ -1,0 +1,14 @@
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\bin\Debug\net8.0\ConsoleAuthDemo.exe
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\bin\Debug\net8.0\ConsoleAuthDemo.deps.json
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\bin\Debug\net8.0\ConsoleAuthDemo.runtimeconfig.json
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\bin\Debug\net8.0\ConsoleAuthDemo.dll
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\bin\Debug\net8.0\ConsoleAuthDemo.pdb
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.AssemblyInfoInputs.cache
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.AssemblyInfo.cs
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.dll
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\refint\ConsoleAuthDemo.dll
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.pdb
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ConsoleAuthDemo.genruntimeconfig.cache
+C:\Users\jazko\OneDrive\Desktop\VSCode\C#\ConsoleAuthDemo\obj\Debug\net8.0\ref\ConsoleAuthDemo.dll
