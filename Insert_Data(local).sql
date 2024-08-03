@@ -1,0 +1,1 @@
+INSERT INTO Users (username, passwordSalt, passwordHash, firstName, lastName) VALUES ('JohnDoe', 'somesalt', 'somehash', 'John', 'Doe');

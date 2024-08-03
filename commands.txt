@@ -1,0 +1,61 @@
+-- Dropping tables if they exist
+DROP TABLE IF EXISTS Users;
+DROP TABLE IF EXISTS Presentation;
+DROP TABLE IF EXISTS Comment;
+DROP TABLE IF EXISTS Faq;
+
+-- Creating the Users table
+CREATE TABLE Users
+(
+    username VARCHAR(20) NOT NULL UNIQUE,
+    passwordSalt VARCHAR(50) NOT NULL,
+    passwordHash VARCHAR(100) NOT NULL,
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    firstName VARCHAR(20) NOT NULL,
+    lastName VARCHAR(20) NOT NULL
+);
+
+-- Creating the Presentation table
+CREATE TABLE Presentation
+(
+    authorId INTEGER NOT NULL,
+    ID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    title VARCHAR(50) NOT NULL,
+    description VARCHAR(255) NOT NULL,
+    FOREIGN KEY (authorId) REFERENCES Users(ID) ON DELETE CASCADE
+);
+
+-- Creating the Comment table
+CREATE TABLE Comment
+(
+    presentationId INTEGER NOT NULL,
+    ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    comment VARCHAR(500) NOT NULL,
+    depth INT NOT NULL,
+    upCount INT NOT NULL DEFAULT 0,
+    downCount INT NOT NULL DEFAULT 0,
+    commentParent INTEGER,
+    FOREIGN KEY (presentationId) REFERENCES Presentation(ID) ON DELETE CASCADE
+);
+
+-- Creating the Faq table
+CREATE TABLE Faq
+(
+    ID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    presentationId INTEGER NOT NULL,
+    question VARCHAR(1000) NOT NULL,
+    answer VARCHAR(1000) NOT NULL,
+    FOREIGN KEY (presentationId) REFERENCES Presentation(ID) ON DELETE CASCADE
+);
+
+INSERT INTO Users (username, passwordSalt, passwordHash, firstName, lastName)
+VALUES ('johndoe', 'randomsalt1', 'hashedpassword1', 'John', 'Doe');
+
+INSERT INTO Users (username, passwordSalt, passwordHash, firstName, lastName)
+VALUES ('janedoe', 'randomsalt2', 'hashedpassword2', 'Jane', 'Doe');
+
+INSERT INTO Users (username, passwordSalt, passwordHash, firstName, lastName)
+VALUES ('aliceblue', 'randomsalt3', 'hashedpassword3', 'Alice', 'Blue');
+
+
+SELECT * FROM Users;
