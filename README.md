@@ -2,9 +2,12 @@
 dotnet add package Microsoft.Data.Sqlite
 
 # commands.txt 
-will execute and insert the some entries into Users
+fill that will be executed to create tables and insert the some entries into Users
 
-# run
+# mydatabase.db 
+- this is where all the data is actually stored
+  
+# how to run
 dotnet run 
 - will show all the entries that are inserted
 - 
