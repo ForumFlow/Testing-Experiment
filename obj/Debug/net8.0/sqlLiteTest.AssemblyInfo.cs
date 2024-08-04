@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sqlLiteTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ce66e6cef4b5e6655c114e3ee4399cd3b84eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("sqlLiteTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sqlLiteTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

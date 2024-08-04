@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/anthony/PersonalProjects/BasicCrudAppUsingCSharp/sqlLiteTest/sqlLiteTest.csproj": {}
+    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj": {}
   },
   "projects": {
-    "/home/anthony/PersonalProjects/BasicCrudAppUsingCSharp/sqlLiteTest/sqlLiteTest.csproj": {
+    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anthony/PersonalProjects/BasicCrudAppUsingCSharp/sqlLiteTest/sqlLiteTest.csproj",
+        "projectUniqueName": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj",
         "projectName": "sqlLiteTest",
-        "projectPath": "/home/anthony/PersonalProjects/BasicCrudAppUsingCSharp/sqlLiteTest/sqlLiteTest.csproj",
-        "packagesPath": "/home/anthony/.nuget/packages/",
-        "outputPath": "/home/anthony/PersonalProjects/BasicCrudAppUsingCSharp/sqlLiteTest/obj/",
+        "projectPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj",
+        "packagesPath": "C:\\Users\\jazko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anthony/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jazko\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
