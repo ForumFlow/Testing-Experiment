@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lauwTDvUWQ=",
+  "dgSpecHash": "rnELyaFSdd4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj",
+  "projectFilePath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\sqlLiteTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jazko\\.nuget\\packages\\microsoft.data.sqlite\\8.0.7\\microsoft.data.sqlite.8.0.7.nupkg.sha512",
     "C:\\Users\\jazko\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj": {}
+    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\sqlLiteTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj": {
+    "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\sqlLiteTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj",
+        "projectUniqueName": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\sqlLiteTest.csproj",
         "projectName": "sqlLiteTest",
-        "projectPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\sqlLiteTest.csproj",
+        "projectPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\sqlLiteTest.csproj",
         "packagesPath": "C:\\Users\\jazko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\C#\\ForumFlowClient\\src\\Utils\\sqlLiteEx\\obj\\",
+        "outputPath": "C:\\Users\\jazko\\OneDrive\\Desktop\\VSCode\\Testing-Experiment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jazko\\AppData\\Roaming\\NuGet\\NuGet.Config"
